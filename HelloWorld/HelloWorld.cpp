@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("Hello World");
 	printf("hello\n");
+        printf("sun");
 	return 0;
 }
 
